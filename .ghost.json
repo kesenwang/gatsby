@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://kesen.wang",
+    "contentApiKey": "b574ec3b8370e5fd9eceb50eb0"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://kesen.wang",
+    "contentApiKey": "b574ec3b8370e5fd9eceb50eb0"
   }
 }
